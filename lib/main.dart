@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
                   height: 10.0,
                 ),
                 const Text(
-                    'Saka Gbolahan',style: TextStyle(
+                    'Saka Gbolahan 1',style: TextStyle(
                   fontSize: 20.0,
                   letterSpacing: 5.0,
                   color: Colors.white,
